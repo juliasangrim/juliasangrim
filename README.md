@@ -8,7 +8,7 @@
 
 :purple_heart: making some stuff on java
 
-:purple_heart: ready for styding smth new
+:purple_heart: ready for learning smth new
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
