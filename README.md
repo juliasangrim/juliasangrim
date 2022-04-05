@@ -2,7 +2,7 @@
 
 💜 Now I'm a student from Novosibirsk State University.
 
-💜I’m learning **spring** now
+💜I’m learning **Spring boot** now
 
 :purple_heart: 20 y.o.
 
