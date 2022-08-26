@@ -2,7 +2,7 @@
 
 💜 Now I'm a student from Novosibirsk State University.
 
-:purple_heart: 20 y.o.
+:purple_heart: 21 y.o.
 
 :purple_heart: making some stuff on java
 
