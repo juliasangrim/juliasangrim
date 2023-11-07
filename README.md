@@ -17,8 +17,3 @@
 Telegram
 </p> 
 
-<h3 align="left">Languages and Tools:</h3>
-
-:purple_heart: Kotlin
-:purple_heart: Java
-:purple_heart: work a little with Retrofit, Paging 3, Hilt
